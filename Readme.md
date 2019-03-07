@@ -23,7 +23,7 @@ Some implementations in other languages are also available:
 - [Swift](https://github.com/socketio/socket.io-client-swift)
 - [Dart](https://github.com/rikulo/socket.io-client-dart)
 
-Its main features are:
+Its main features are:  
 
 #### Reliability
 
